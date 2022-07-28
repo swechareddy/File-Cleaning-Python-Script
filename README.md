@@ -1,5 +1,7 @@
 # File-Cleaning-Python-Script
-This file cleans data from Medical Colleages of Texas
+This file cleans data from various EHRs.
+
+
 
 import traceback
 filter_list = []
